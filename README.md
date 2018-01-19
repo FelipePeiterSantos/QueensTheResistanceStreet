@@ -1,4 +1,4 @@
-# Queens: TheResistance Street
+# Queens: The Resistance Street
 
 ## What is this code about?
 A game made with Unity3D.
